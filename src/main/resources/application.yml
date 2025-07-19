@@ -19,3 +19,6 @@ springdoc:
   swagger-ui:
     path: /swagger-ui.html
 
+
+integracoes:
+  integrantes: http://localhost:8081
