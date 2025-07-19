@@ -24,8 +24,8 @@ ext {
 dependencies {
     // Main
     implementation("org.springframework.boot:spring-boot-starter-web")
-    implementation("org.springframework.boot:spring-boot-starter-security")
     implementation("org.springframework.cloud:spring-cloud-starter-openfeign")
+    implementation("org.springdoc:springdoc-openapi-starter-webmvc-ui:2.5.0")
     developmentOnly("org.springframework.boot:spring-boot-devtools")
 
     //    Tests
