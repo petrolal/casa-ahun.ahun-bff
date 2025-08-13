@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: ahun-bff
+
+integracao:
+  ahun-integrantes: 
+    name: AhunIntegrantes
+    url: http://localhost:8081
